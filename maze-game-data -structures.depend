@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1536933273 source:e:\data structures\maze-game-data -structures\main.cpp
+	<iostream>
+	<cstdlib>
+
+1536933273 source:e:\uca\maze-game-data -structures\main.cpp
+	<iostream>
+	<cstdlib>
+
